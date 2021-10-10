@@ -1,6 +1,6 @@
 #  Google Ana Sayfasını Tasarlamak
 
-Google'un 1998 deki ana sayfasını tasarlamaya çalıştım
+Google'un 1998 deki ana sayfasını tasarlamaya çalıştım.
 
 ## Görünüm
 
