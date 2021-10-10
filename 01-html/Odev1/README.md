@@ -9,4 +9,4 @@ Eveet harika konular öğrendikten sonra sıra geldi ödevimize. Bu ödevimizde 
 + Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
 + Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
 
-![](https://i.imgur.com/lnFm2jy.png)
+![](https://i.imgur.com/EU7eeYk.png)
