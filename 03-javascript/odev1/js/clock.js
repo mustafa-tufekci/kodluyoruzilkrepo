@@ -20,9 +20,9 @@ function showTime() {
     let currentTime = hour+":"+min+":"+sec+" "+weekDay;
 
     document.getElementById('clock').innerText = currentTime
-    setInterval(showTime, 1000);
+    setInterval(showTime, 500);
 }
 
-//askName()
+askName()
 showTime()
 
